@@ -26,4 +26,4 @@ The result should static page (.html), because this pages don’t have backend.
 Good implementation for Retina Display, the minimum image possible, try to write as much in css.
 
 
-** Send you resume to: dev@tago.io, if you able! Thanks. **
+**Send you resume to: dev@tago.io, if you able! Thanks.**
