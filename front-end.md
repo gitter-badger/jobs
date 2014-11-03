@@ -16,18 +16,18 @@ To build HTML
 To make build:
 - Grunt or Gulp
 
+```
+(*) If you need, you can use.
+```
+
 Layout is in PSD, you should be able to use photoshop, for import images.
 
 We use github, you need know git of course.
- 
-```
-*** If you need you can use.
-```
 
 The result should static page (.html), because this pages don’t have backend.
 Good implementation for Retina Display, the minimum image possible, try to write as much in css.
 
 
-**Send you resume to: dev@tago.io, if you able! Thanks.**
+**Send your resume to: dev@tago.io, if you able! Thanks.**
 
 > NOTE: Tago LLC no provides tools such as licenses, computer or anything else.
