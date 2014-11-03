@@ -16,6 +16,8 @@ To build HTML
 To make build:
 - Grunt or Gulp
 
+Layout is in PSD, you should be able to use photoshop, for import images.
+
 We use github, you need know git of course.
  
 ```
@@ -27,3 +29,5 @@ Good implementation for Retina Display, the minimum image possible, try to write
 
 
 **Send you resume to: dev@tago.io, if you able! Thanks.**
+
+> NOTE: Tago LLC no provides tools such as licenses, computer or anything else.
