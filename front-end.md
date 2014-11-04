@@ -20,14 +20,14 @@ To make build:
 (*) If you need, you can use.
 ```
 
-Layout is in PSD, you should be able to use photoshop, for import images.
+Layout is in PSD, you should be able to use photoshop to import images.
 
-We use github, you need know git of course.
+We use github, you need to know git, of course.
 
-The result should static page (.html), because this pages don’t have backend.
-Good implementation for Retina Display, the minimum image possible, try to write as much in css.
+The result should be static page (.html), because these pages don’t have backend.
+Good implementation for Retina Display, the minimum image possible, try to write as much as possible in css.
 
 
-**Send your resume to: dev@tago.io, if you able! Thanks.**
+**Send your resume to: dev@tago.io, if you interested! Thanks.**
 
-> NOTE: Tago LLC no provides tools such as licenses, computer or anything else.
+> NOTE: Tago LLC doesn't provide tools such as licenses, computer or anything else.
